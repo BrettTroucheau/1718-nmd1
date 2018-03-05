@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(230, 230, 230) }
+
+.flexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+.box_item {
+    width: 20%;
+    height: 275px;
+    border-radius: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 20px;
+    }
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 5%;
+}
+
+.one {
+    background-color: #355c7d
+}
+
+.two {
+    background-color: #99b898
+}
+
+.three {
+    background-color: #fecea8
+}
+
+.four {
+    background-color: #a8a7a7
+}
